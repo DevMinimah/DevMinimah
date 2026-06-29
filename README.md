@@ -48,6 +48,7 @@ Securing Systems Through Hands-On Learning:
 | Collegiate of Science in Blockchain Studies (CSC-BSTUD) | Althash University | ✅ Completed |
 | Certified of Achievement — Software Development & Database Management | Power Learn Project | ✅ Completed |
 | Certificate of Completion — GIS for Climate Action (MOOC) | Esri | ✅ Completed |
+| Certificates of Completion | ISC2 | ✅ Completed |
 | Cybersecurity Certificate | IBM SkillsBuild | ✅ Completed |
 | Cybersecurity Professional Certificate | Google | 🔄 In Progress |
 | Security Operations Analyst Associate (SC-200) | Microsoft | 🔄 In Progress |
