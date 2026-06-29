@@ -1,6 +1,6 @@
 # DevMinimah
 
-# 👋 Hi, I'm Abiegbu Simeon Minimah
+# 👋 Hi, Dev Minimah
 
 Environmental Science → Blockchain → Dev → Cyber | Protecting Systems at Every Layer
 
