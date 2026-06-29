@@ -3,7 +3,7 @@
 
 Environmental Science → Blockchain → Dev → Cyber | Protecting Systems at Every Layer
 
-I'm an interdisciplinary technologist whose journey spans environmental systems, decentralized technology, full-stack development, and cybersecurity. I specialize in understanding how complex systems work — whether they're ecological, digital, or decentralized — and how to secure them against modern threats.
+I'm an interdisciplinary technologist whose journey spans environmental systems, decentralized technology, full-stack development, and cybersecurity. I specialize in understanding how complex systems work, whether they're ecological, digital, or decentralized and how to secure them against modern threats.
 
 ---
 
@@ -12,7 +12,7 @@ I'm an interdisciplinary technologist whose journey spans environmental systems,
 ### Environmental Science & Resource Management
 - Foundation: BSc (Honours) in Environmental Science & Resource Management
 - Core Skill: Systems thinking — understanding how interconnected components affect overall system integrity
-- Application: Analyzing complex environmental systems taught me to identify vulnerabilities, assess risks, and implement protective measures — skills I now apply to digital infrastructure
+- Application: Analyzing complex environmental systems taught me to identify vulnerabilities, assess risks, and implement protective measures, skills I now apply to environmental sustainability and digital infrastructure
 
 ### Blockchain & Web3
 - Focus: Data integrity, transparency, and decentralized systems
@@ -45,7 +45,9 @@ Securing Systems Through Hands-On Learning:
 
 | Certification | Issuing Organization | Status |
 |---------------|---------------------|--------|
-| Certified in Cybersecurity (CC) | ISC2 | ✅ Completed |
+| Collegiate of Science in Blockchain Studies (CSC-BSTUD) | Althash University | ✅ Completed |
+| Certified of Achievement — Software Development & Database Management | Power Learn Project | ✅ Completed |
+| Certificate of Completion — GIS for Climate Action (MOOC) | Esri | ✅ Completed |
 | Cybersecurity Certificate | IBM SkillsBuild | ✅ Completed |
 | Cybersecurity Professional Certificate | Google | 🔄 In Progress |
 | Security Operations Analyst Associate (SC-200) | Microsoft | 🔄 In Progress |
@@ -65,7 +67,7 @@ Web applications and tools built with Python, JavaScript, MySQL, and Dart/Flutte
 
 ### ⛓️ Blockchain Exploration
 Research and projects exploring decentralized systems, smart contracts, and Web3 architectures.
-- [View Blockchain Work](link-to-blockchain-repo) *(if applicable)*
+- [View Blockchain Work](link-to-blockchain-repo)
 
 ---
 
@@ -77,7 +79,7 @@ Development: Python | JavaScript | HTML/CSS | MySQL | Dart/Flutter | REST APIs
 
 Systems & Infrastructure: Environmental systems analysis | Blockchain/Web3 concepts | Full-stack web development | Database design
 
-Tools & Platforms: Microsoft Defender XDR | Microsoft Sentinel | IBM Security tools | TryHackMe | HackTheBox | Git/GitHub
+Tools & Platforms: ArcGIS | QGIS Microsoft Defender XDR | Microsoft Sentinel | IBM Security tools | TryHackMe | HackTheBox | Git/GitHub
 
 --
 
@@ -85,17 +87,17 @@ Tools & Platforms: Microsoft Defender XDR | Microsoft Sentinel | IBM Security to
 ## 🎯 What Drives Me
 I believe that whether you're protecting ecosystems, securing data, or defending networks, the core challenge is the same: understanding complex systems and implementing effective controls to maintain their integrity.
 
-My diverse background allows me to approach security problems with a unique perspective — seeing connections that others might miss and applying lessons from one domain to solve challenges in another.
+My diverse background allows me to approach security problems with a unique perspective, seeing connections that others might miss and applying lessons from one domain to solve challenges in another.
 
 ---
 
 ## 📫 Connect
 
-- 📄 [LinkedIn](your-linkedin-url)
-- 📧 [Email](your-email)
-- 🌐 [Portfolio Website](if you have one)
+- 📄 [LinkedIn](https://www.linkedin.com/in/abiegbu-minimah)
+- 📧 [Email](tBA)
+- 🌐 [Portfolio Website](TBA)
 
 ---
 
-*"From protecting natural systems to securing digital ones — the mission is the same: safeguard what matters."*
+*"From protecting natural systems to securing digital ones, the mission is the same: safeguard what matters."*
 
