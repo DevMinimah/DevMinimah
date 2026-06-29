@@ -58,7 +58,7 @@ Securing Systems Through Hands-On Learning:
 
 ### 🔒 Cybersecurity Portfolio
 Comprehensive documentation of hands-on labs, technical exercises, and capstone projects across Linux, SQL, threat detection, and incident response.
-- [View Cybersecurity Portfolio](link-to-your-main-repo)
+- [View Cybersecurity Portfolio]() https://github.com/DevMinimah/Cybersecurity-Master-Journey
 
 ### 💻 Development Projects
 Web applications and tools built with Python, JavaScript, MySQL, and Dart/Flutter.
