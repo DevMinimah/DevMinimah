@@ -1,6 +1,5 @@
-# DevMinimah
 
-# 👋 Hi, Dev Minimah
+# 👋 Hi, I'm Abiegbu Simeon Minimah
 
 Environmental Science → Blockchain → Dev → Cyber | Protecting Systems at Every Layer
 
@@ -62,7 +61,7 @@ Comprehensive documentation of hands-on labs, technical exercises, and capstone 
 
 ### 💻 Development Projects
 Web applications and tools built with Python, JavaScript, MySQL, and Dart/Flutter.
-- [View Development Work](link-to-dev-repo)
+- [View Development Work](https://github.com/DevMinimah)
 
 ### ⛓️ Blockchain Exploration
 Research and projects exploring decentralized systems, smart contracts, and Web3 architectures.
